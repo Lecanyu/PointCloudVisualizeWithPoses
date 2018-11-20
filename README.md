@@ -1,2 +1,2 @@
 # PointCloudVisualizeWithPoses
-Point cloud visualization tools (implemented by PCL)
+Point cloud visualization tools
